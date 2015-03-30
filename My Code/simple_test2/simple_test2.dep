@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>0</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\simple_test2.d66</name>
+      <inputs>
+        <name>$TOOLKIT_DIR$\config\lnkmaxq200x.xcl</name>
+        <name>$PROJ_DIR$\Debug\Obj\simple_test2.r66</name>
+        <name>$TOOLKIT_DIR$\LIB\clib\clmaxq20m.r66</name>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\simple_test2.c</name>
+      <outputs>
+        <name>$PROJ_DIR$\Debug\Obj\simple_test2.r66</name>
+      </outputs>
+      <inputs>
+        <name>$TOOLKIT_DIR$\INC\intrinsics.h</name>
+        <name>$TOOLKIT_DIR$\INC\iomaxq200x.h</name>
+        <name>$TOOLKIT_DIR$\INC\iomaxq.h</name>
+        <name>$TOOLKIT_DIR$\INC\iomacro.h</name>
+        <name>$TOOLKIT_DIR$\INC\RT53reg.h</name>
+        <name>$PROJ_DIR$\..\interface.c</name>
+        <name>$PROJ_DIR$\..\interface.h</name>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+  </configuration>
+</project>
+
+

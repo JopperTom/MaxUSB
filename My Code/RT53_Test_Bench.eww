@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\connect_test\connect_test.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\connect_test2\connect_test2.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\foo\foo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\hst_LS_HUB_KBD\hst_LS_HUB_KBD.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\hst_LS_KBD_NOHUB\hst_LS_KBD_NOHUB.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\read_bytes\read_bytes.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\simple_test\simple_test.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\simple_test2\simple_test2.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

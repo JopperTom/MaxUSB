@@ -1,0 +1,21 @@
+[Watch]
+Watch 1=_ 12 "FLAG" "INTERRUPT" "CURRENT" "NEXT" "foo" "FRAMECOUNT" "p2" "CONNECT" "device" "this_device" "my_device" "address"
+Watch 2=_ 1 "my_device"
+Watch 3=_ 2 "CURRENT" "NEXT"
+[DisAssemblyWindow]
+NumStates=_ 0
+[Profiling]
+State=_ 0
+[TermIOSettings]
+Filename=_ ""
+InputMode=_ 1
+[Breakpoints]
+Bp0=_ "Code" "{H:\maxim-ic\Maxim USB\My Code\interface.c}.154.9" 1 0 0 0 "" 0 ""
+Count=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""

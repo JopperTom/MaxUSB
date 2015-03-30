@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>0</fileVersion>
+  <configuration>
+    <name>Debug</name>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+  </configuration>
+</project>
+
+
